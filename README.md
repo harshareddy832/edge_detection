@@ -8,4 +8,4 @@
 
 **The Image looks like this one below**
 
-![image](https://github.com/harshareddy832/edge_detection/blob/main/Screenshot%202022-07-06%20at%203.16.35%20PM.png)
+![image](https://github.com/harshareddy832/edge_detection/blob/main/Screenshot%202022-07-06%20at%203.29.12%20PM.png)
